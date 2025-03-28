@@ -11,6 +11,6 @@ This repository contains the **Blinkit Power BI Dashboard** and **Sales Report**
 
 ##  Repository Structure  
 /Blinkit_PowerBI_Project
-│── Blinkit_Dashboard.pbix # Power BI dashboard file
-│── Blinkit_Report.docx # Detailed business report
-│── README.md # Project overview and usage
+- Blinkit_Dashboard.pbix # Power BI dashboard file
+- Blinkit_Report.docx # Detailed business report
+- README.md # Project overview and usage
